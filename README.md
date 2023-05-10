@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akosiphar
-- 👀 I’m interested in Learning Front-End Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I'm a graduate of coding bootcamp (MERN STACK)
+- 🌱 I’m currently learning MERN and further expanding my knowledge of it
 
 <!---
 akosiphar/akosiphar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
